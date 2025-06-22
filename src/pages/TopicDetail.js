@@ -149,47 +149,5 @@ export default function TopicDetail() {
 
 }
 
-const styles = {
-  container: {
-    padding: '2rem',
-    fontFamily: 'Arial, sans-serif',
-    maxWidth: '800px',
-    margin: '0 auto',
-    color: '#333'
-  },
-  heading: {
-    fontSize: '2rem',
-    marginBottom: '1rem',
-    color: '#2c3e50'
-  },
-  image: {
-    width: '100%',
-    height: '300px',
-    objectFit: 'cover',
-    borderRadius: '12px',
-    boxShadow: '0 4px 10px rgba(0, 0, 0, 0.2)',
-    marginBottom: '1rem'
-  },
-  content: {
-    fontSize: '1.2rem',
-    lineHeight: '1.8',
-    marginBottom: '2rem'
-  },
-  buttonGroup: {
-    display: 'flex',
-    gap: '10px',
-    flexWrap: 'wrap'
-  },
-  button: {
-    padding: '0.7rem 1.3rem',
-    fontSize: '1rem',
-    backgroundColor: '#007bff',
-    color: '#fff',
-    border: 'none',
-    borderRadius: '8px',
-    cursor: 'pointer',
-    transition: 'all 0.3s ease',
-    boxShadow: '0 2px 6px rgba(0,0,0,0.1)'
-  }
-};
+
 
